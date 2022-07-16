@@ -78,6 +78,5 @@ class ProductController extends Controller
             'Data produk berhasil diambil'
         );
 
-
     }
 }
